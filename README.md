@@ -35,7 +35,7 @@ To run this project:
 Download: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 
 ```
-$ git clone https://github.com/sagarbgohil/E-HealthCard.git
-$ cd EHealthCard
+$ git clone https://github.com/sagarbgohil/AutoComplete.git
+$ cd AutoComplete
 ```
 Then open the code in VS Code and Run on LiveServer.
